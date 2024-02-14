@@ -20,6 +20,16 @@ Planning is done in Garmin Basecamp.
 GPX_2_KML_4_Orga has no user interface. You just take your exported GPX and drag & drop it onto the exe. As a result you have a converted KML with the same name in the same directory as the GPX.
 If there are any errors, you will be informed.
 
+## Example ##
+
+Planning in Basecamp:  
+
+![Planning in Basecamp](images/basecamp-planning.jpg)
+
+Result in OrganicMaps:  
+
+![Result in OrganicMaps](images/display_organicmaps.jpg)
+
 ## Read more ##
 
 If you want to understand more in terms how you can customize icons and tracks colors, read: **readme-licence.pdf**
