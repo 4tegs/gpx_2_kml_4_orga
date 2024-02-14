@@ -24,11 +24,11 @@ If there are any errors, you will be informed.
 
 Planning in Basecamp:  
 
-![Planning in Basecamp](images/basecamp-planning.jpg)
+![Planning in Basecamp](pictures/basecamp-planning.jpg)
 
 Result in OrganicMaps:  
 
-![Result in OrganicMaps](images/display_organicmaps.jpg)
+![Result in OrganicMaps](pictures/display_organicmaps.jpg)
 
 ## Read more ##
 
